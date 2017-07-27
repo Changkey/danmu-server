@@ -1,9 +1,9 @@
 module.exports = {
-	"orangeacg
+	"rooms": {
 		"default": {
-			"hostname": ["60.205.210.200", "172.17.115.125"], 
+			"hostname": ["test.zsxsoft.com", "danmu.zsxsoft.com"], 
 			"cdn": false,
-			"display": "橙子动漫嘉年华互动弹幕",
+			"display": "默认",
 			"table": "room_default", // 数据表
 			"connectpassword": "123456", // 客户端连接密码
 			"managepassword": "123456", // 管理密码
