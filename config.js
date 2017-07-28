@@ -1,9 +1,9 @@
 module.exports = {
-	"orangeacg": {
-		"default": {
+	"rooms": {
+		"orangeacg": {
 			"hostname": ["172.17.115.125", "60.205.210.200"], 
 			"cdn": false,
-			"display": "橙子动漫嘉年华互动弹幕",
+			"display": "test",
 			"table": "orangedmt", // 数据表
 			"connectpassword": "orcllink_233666", // 客户端连接密码
 			"managepassword": "orcmaster_television233", // 管理密码
@@ -111,9 +111,9 @@ module.exports = {
 		/*"autoban": { // 自动封号扩展
 			"block": 3, // 被拦截超过一定数字自动封号
 		}, */
-		"audit": { // 审核扩展
+		/*"audit": { // 审核扩展
 			
-		},
+		},*/
 		/*"livesync": {
 			"unlimited": { // 房间名
 				"liveUrl": "http://live.bilibili.com/3" // 直播地址
